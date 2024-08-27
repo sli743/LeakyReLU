@@ -11,3 +11,5 @@ For MNIST, put the downloaded original data (the training set and the testing se
 For California housing data, put the downloaded original data (named "housing.csv") in this folder and then run the notebook "California_housing.ipynb". Experiment with modified loss function also included in this file.
 
 For IMDb movie review dataset, run the notebook "lstm_imdb.ipynb".
+
+Reference: https://proceedings.mlr.press/v238/guo24c.html
